@@ -2,4 +2,7 @@
 
 ![test](https://github.com/jupyter-widgets/ipyleaflet/blob/master/geojson.gif)
 
-[![bubble](bubble.png)](https://github.com/gouarin/2024_02_amr_workshop/blob/main/public/figures/bubble.mp4)
+
+
+https://github.com/gouarin/test_gif/assets/7510549/5b2ff187-bd17-42a8-9ced-51ebdc1a75ac
+
